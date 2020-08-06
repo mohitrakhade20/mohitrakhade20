@@ -1,6 +1,11 @@
-### Hi there, I'm Mohit°• [mohitrakhade20][website] 👋
+### Hi there, I'm Mohit °• [mohitrakhade20][website] 👋
 
-## I'm a Developer who likes to Code
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)][linkedin]
+[![Coding Valley](https://img.shields.io/badge/-Portfolio-yellow)][website]
+
+<!-- [![Resume](https://img.shields.io/badge/-Resume-orange)](https://dipeshpatil.github.io/resume/) -->
+
+## I'm a Developer who likes to Code 👨‍💻
 
 - 🔭 I’m currently working on a [MERN Stack & Blockchian][website]!
 - 🌱 I also write tech articals on [Medium][medium]

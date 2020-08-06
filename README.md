@@ -1,10 +1,10 @@
-### Hi there, I'm Mohit [codeSTACKr][website] 👋
+### Hi there, I'm Mohit°• [mohitrakhade20][website] 👋
 
 ## I'm a Developer who likes to Code
 
 - 🔭 I’m currently working on a [MERN Stack & Blockchian][website]!
 - 🌱 I also write tech articals on [Medium][medium]
-- 👯 I also run a developer community named as [Coding Valley][website]
+- 👯 I also run a developer's community named as [Coding Valley][website]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Commited to #100DaysOfCode Challenge
 
@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohitrakhade20&show_icons=true&hide_border=true" />[git]
+<img align="left" alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohitrakhade20&show_icons=true&hide_border=true" />
 
 [website]: https://codingvalley.ml/
 [twitter]: https://twitter.com/mohitrakhade20

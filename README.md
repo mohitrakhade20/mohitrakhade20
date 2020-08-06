@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohit °• [mohitrakhade20][website] 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudiptoghosh99/)][linkedin]
-[![Coding Valley](https://img.shields.io/badge/-Portfolio-yellow)][website]
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohitrakhade20/)][linkedin]
+[![Coding Valley](https://img.shields.io/badge/-Coding_Valley-black)][website]
 
 <!-- [![Resume](https://img.shields.io/badge/-Resume-orange)](https://dipeshpatil.github.io/resume/) -->
 

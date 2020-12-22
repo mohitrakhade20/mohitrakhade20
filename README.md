@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on a [MERN Stack & Blockchian][website]!
 - 🌱 I also write tech articals on [Medium][medium]
 - 👯 I also run a developer's community named as [Coding Valley][website]
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Commited to #100DaysOfCode Challenge
 
 ### Connect with me:

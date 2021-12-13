@@ -7,7 +7,7 @@
 
 ## I'm a Developer who likes to Code 👨‍💻
 
-- 🔭 I’m currently working on a [Blockchian][website]!
+- 🔭 I’m currently working on [Blockchian][website]!
 - 🌱 I also write tech articals on [Medium][medium]
 - 👯 I also run a developer's community named as [Coding Valley][website]
 - 🥅 2022 Goals: Exploring more Defi Protocols

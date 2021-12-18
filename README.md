@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Blockchian][website]!
 - 🌱 I also write tech articals on [Medium][medium]
-- 👯 I also run a developer's community named as [Coding Valley][website]
+- 👯 I also run [WEB3DAO][website]
 - 🥅 2022 Goals: Exploring more Defi Protocols
 - ⚡ Commited to #100DaysOfCode Challenge
 
@@ -45,7 +45,7 @@
 
 <img align="left" alt="Mohit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohitrakhade20&show_icons=true&hide_border=true" />
 
-[website]: https://codingvalley.ml/
+[website]: https://discord.io/web3dao
 [twitter]: https://twitter.com/mohitrakhade20
 [youtube]: https://www.youtube.com/channel/UC9TTjrGXiEJ2luE3CfcsWgg
 [instagram]: https://www.instagram.com/mohit_._2020/
